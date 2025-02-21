@@ -1,7 +1,7 @@
 {
   "name": "learn-rotations",
   "version": "0.1.0",
-  "homepage": "https://johnvance1.github.io/learn-rotations",
+  "homepage": "https://johnvance1.github.io/Volleyball_Rotations",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
